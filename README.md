@@ -1,6 +1,6 @@
 # [Quantitative Computational Club at Chulalongkorn University](https://www.instagram.com/quantcu/)
 
-![cover]([https://github.com/QUANT-CU/.github/blob/main/github%20cover.png](https://github.com/QUANT-CU/.github/blob/main/cover%20for%20github.png))
+![cover](https://github.com/QUANT-CU/.github/blob/main/cover%20for%20github.png)
 
 ## Who are we
 We are students from various fields like mathematics, physics, finance, economics, engineering, and computer science, united by our scientific approach to finance.
@@ -13,4 +13,4 @@ Let's learn quant together!
 
 ## Links
 - Instagram: [Quant CU](https://www.instagram.com/quantcu/)
-- GitHub: [QUANT CU]([https://github.com/creatorsgarten](https://github.com/quant-cu)
+- GitHub: [QUANT CU](https://github.com/quant-cu)
