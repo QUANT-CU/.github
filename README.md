@@ -13,4 +13,4 @@ Let's learn quant together!
 
 ## Links
 - Instagram: [Quant CU](https://www.instagram.com/quantcu/)
-- GitHub: [QUANT CU]([https://github.com/creatorsgarten](https://github.com/quant-cu))
+- GitHub: [QUANT CU]([https://github.com/creatorsgarten](https://github.com/quant-cu)
