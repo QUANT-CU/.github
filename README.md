@@ -1,16 +1,9 @@
-# [Quantitative Computational Club at Chulalongkorn University](https://www.instagram.com/quantcu/)
+# [Quantitative Computational Finance Club at Chulalongkorn University](https://www.instagram.com/quantcu/)
+Quantitative Computational Finance Club at Chulalongkorn University (Quant CU) is a community of students at Chulalongkorn University interested in quantitative finance. Our goal is to create a space where we can learn, research, organize sessions, and share knowledge to build a strong foundation in this field. Our activities are supported by QuantCorner, the Thai quant analyst community.
 
-![cover](https://github.com/QUANT-CU/.github/blob/main/cover%20for%20github.png)
-
-## Who are we
-We are students from various fields like mathematics, physics, finance, economics, engineering, and computer science, united by our scientific approach to finance.
-
-We know that quantitative finance is challenging, so we hold public events and bi-weekly Quant Circle reading sessions to connect and share knowledge.
-
-Our goal is to create a space for learning, research, and sharing to build a strong foundation in quantitative finance.
-
-Let's learn quant together! 
+We aim to approach finance using the scientific method and a multidisciplinary perspective. Our members come from diverse fields such as mathematics, physics, computer science, engineering, economics, and finance. We welcome students from any other department as well!
 
 ## Links
-- Instagram: [Quant CU](https://www.instagram.com/quantcu/)
-- GitHub: [QUANT CU](https://github.com/quant-cu)
+- Club Website: [Quant CU Website](https://quant-cu.github.io/) 
+- Instagram: [Quant CU Instagram](https://www.instagram.com/quantcu/)
+- Medium: [Quant CU Medium](https://medium.com/quant-cu)
